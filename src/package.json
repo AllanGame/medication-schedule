@@ -1,0 +1,15 @@
+{
+  "name": "medication-schedule",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zzloxr09mp",
+  "main": "index.js",
+  "dependencies": {
+    "@primer/react": "35.3.0",
+    "moment": "2.29.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "5.3.5"
+  }
+}

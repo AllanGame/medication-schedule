@@ -1,0 +1,11 @@
+.app {
+  margin: 0;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background: #0d1117;
+  gap: 20px;
+}
